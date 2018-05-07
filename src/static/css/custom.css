@@ -1,0 +1,15 @@
+* {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.tag-btn>li {
+  float: left;
+}
+
+span {
+  height: 25px;
+  width: 25px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
